@@ -1,3 +1,4 @@
+
 > [!WARNING]
 > forcing discord to show videos this way was patched in May 2025. this project is no longer maintained.
 
